@@ -1,4 +1,4 @@
-var question = prompt("Are you ready to see my first attempt to make a personal page?")
+var question = prompt("Are you ready to see my first attempt to make a personal page? Please respond with Yes or No")
 var answer = ["Yes" , "No"];
 
 
